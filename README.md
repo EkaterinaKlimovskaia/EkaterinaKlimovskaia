@@ -7,3 +7,7 @@
 https://t.me/Ekklimov
 
 ### Обучение
+
+![CertificateRUS](https://github.com/EkaterinaKlimovskaia/EkaterinaKlimovskaia/blob/main/CertificateRUS.pdf)
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/
