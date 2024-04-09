@@ -15,3 +15,7 @@ https://t.me/Ekklimov
 ![CertificateStatistics1](https://github.com/EkaterinaKlimovskaia/EkaterinaKlimovskaia/blob/main/CertificateStatistics1.jpeg)
 
 Сертификат доступен по ссылке https://stepik.org/certificate/d813fb6fbe624c1d4a5365de1d7c429fd9842da3.pdf
+
+![СertificatePython1](https://github.com/EkaterinaKlimovskaia/EkaterinaKlimovskaia/blob/main/СertificatePython1.jpg)
+
+Сертификат доступен по ссылке https://stepik.org/cert/2406743
