@@ -6,20 +6,23 @@
 
 ### Languages and Tools
 <div align="center">
-
-![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
-![PyTorch](https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35)
-![PostgreSQL](https://img.shields.io/badge/postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=%white)
-![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
-![FastAPI](https://img.shields.io/badge/FastAPI-0b0038?style=for-the-badge&logo=FastAPI&logoColor=4c74cc)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0b0038?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
-![Linux](https://img.shields.io/badge/Linux-0b0038?style=for-the-badge&logo=linux&logoColor=white)
+  
+<img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
+
 ### Контакты:
 https://t.me/Ekklimov
 
