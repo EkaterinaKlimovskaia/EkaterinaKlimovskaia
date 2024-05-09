@@ -25,7 +25,13 @@
 </div>
 
 ### Контакты:
-https://t.me/Ekklimov
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ekklimov)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ek.klimov@gmail.com)
+
+</div>
 
 ### Обучение
 
