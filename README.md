@@ -45,6 +45,8 @@
 
 ### Образование
 
+<img src="https://img.shields.io/badge/Airflow-black?logo=KARPOV.COURSES&style=for-the-badge" title="KARPOV.COURSES" alt="KARPOV.COURSES" height="40"/>&nbsp;
+
 [![Karpov](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=KARPOV_COURSES&logoColor=red)]
 (https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
 
