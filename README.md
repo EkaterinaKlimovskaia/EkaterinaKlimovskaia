@@ -45,7 +45,7 @@
 
 ### Образование
 
-[![KARPOV.COURSES](https://img.shields.io/badge/DATA_ANALYST - KARPOV_COURSES-red?style=for-the-badge)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
+[![KARPOV](https://img.shields.io/badge/DATA_ANALYST - KARPOV_COURSES-red?style=for-the-badge)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
 
 [![STEPIK](https://img.shields.io/badge/PYTHON - STEPIK-white?style=for-the-badge)](https://stepik.org/cert/2406743?auth=login&lang=en)<br>
 
