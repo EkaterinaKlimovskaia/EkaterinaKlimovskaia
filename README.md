@@ -45,7 +45,7 @@
 
 ### Образование
 
-[![KARPOV.COURSES](https://img.shields.io/badge/karpov.courses-red?style=for-the-badge&logo=karpov.courses&logoColor=red)]
+[![KARPOV.COURSES](https://img.shields.io/badge/karpov.courses-0b0038?style=for-the-badge&logo=KARPOV.COURSES&logoColor=red)]
 Сертификат доступен по ссылке https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/
 
 <img src="https://img.shields.io/badge/markdown-white?&logo=Markdown&logoColor=black&style=for-the-badge" title="Markdown" alt="Markdown" height="40"/>&nbsp;
