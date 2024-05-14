@@ -45,12 +45,12 @@
 
 ### Образование
 
-[![KARPOV.COURSES](https://img.shields.io/badge/KARPOV_COURSES-Data_analyst-red?style=for-the-badge)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
+[![KARPOV.COURSES](https://img.shields.io/badge/DATA_ANALYST - KARPOV_COURSES-red?style=for-the-badge)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
 
-[![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/fa7032fb-d033-4f71-8843-2ad13475832e/en/)<br>
-  
+[![STEPIK](https://img.shields.io/badge/PYTHON - STEPIK-white?style=for-the-badge)](https://stepik.org/cert/2406743?auth=login&lang=en)<br>
 
-https://img.shields.io/badge/any_text-you_like-blue
+
+
 ![CertificateStatistics1](https://github.com/EkaterinaKlimovskaia/EkaterinaKlimovskaia/blob/main/CertificateStatistics1.jpeg)
 
 Сертификат доступен по ссылке https://stepik.org/certificate/d813fb6fbe624c1d4a5365de1d7c429fd9842da3.pdf
