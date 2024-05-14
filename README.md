@@ -45,7 +45,7 @@
 
 ### Образование
 
-[![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/))<br>
+[![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=KARPOV.COURSES&logoColor=red)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
   
 
 ![CertificateRUS](https://github.com/EkaterinaKlimovskaia/EkaterinaKlimovskaia/blob/main/CertificateRUS.jpeg)
