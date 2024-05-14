@@ -48,7 +48,8 @@
 [![Karpov](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=KARPOV_COURSES&logoColor=red)]
 (https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)<br>
 
-[![STEPIK](https://img.shields.io/badge/PYTHON - STEPIK-white?style=for-the-badge)](https://stepik.org/cert/2406743?auth=login&lang=en)<br>
+[![STEPIK](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=STEPIK&logoColor=red)]
+(https://stepik.org/cert/2406743?auth=login&lang=en)<br>
 
 
 
