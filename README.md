@@ -45,7 +45,7 @@
 
 ### Образование
 
-[(https://img.shields.io/badge/KARPOV.COURSES-0b0038?logo=KARPOV.COURSES&logoColor=red&style=for-the-badge)](https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)
+(https://img.shields.io/badge/KARPOV.COURSES-0b0038?logo=KARPOV.COURSES&logoColor=red&style=for-the-badge)(https://lab.karpov.courses/certificate/bfad8ab1-2739-4301-a3d4-5dd184a730af/en/)
 
 
 [![Karpov](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=KARPOV_COURSES&logoColor=red)]
