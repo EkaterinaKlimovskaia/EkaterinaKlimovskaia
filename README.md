@@ -5,6 +5,14 @@
 Для практического погружения в Data Analytics я занимаюсь проектной деятельностью, часть моих проектов вы можете увидеть на этой странице. 
 Так же мне нравится получать новые знания и я регулярно прохожу различные курсы для повышения своей компетенции.
 
+Hello! My name is Ekaterina, and I am a Data Analyst with a background working in the banking sector. I have an advanced degree in economics and more than 15 years of experience conducting financial analysis. I am passionate about using my data analysis skills to help leaders make intelligent, impactful business decisions that contribute to the growth and development of the enterprise.
+
+I love working with numbers, discovering useful patterns and insights in data, and visually transforming that data into coherent information that helps solve important business problems.
+
+In addition to my professional training. I have also completed various practical data analysis projects with real-world deliverables. You can see some of my projects on this page. I am also committed to ongoing professional training and development in order to stay current with trends in the data analysis field. 
+
+Finally, I have excellent time management and interpersonal skills, and I have a solid track record of exceeding expectations while delivering high-quality results in fast-paced business environments.
+
 ### Languages and Tools
 <div align="center">
   
